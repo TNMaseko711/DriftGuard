@@ -1,6 +1,6 @@
-# DriftGuard MLOps Platform
+# Experimentra MLOps Platform
 
-DriftGuard is a self-hosted, framework-agnostic MLOps platform blueprint that covers the full ML lifecycle:
+Experimentra is a self-hosted, framework-agnostic MLOps platform blueprint that covers the full ML lifecycle:
 
 - Experiment tracking
 - Model registry and semantic versioning
